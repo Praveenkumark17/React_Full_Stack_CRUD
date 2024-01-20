@@ -68,3 +68,61 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Spring Backend Folder as a connecting Backend for (React Frontend)
+
+This is a simple Spring Boot application.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+What things you need to install the software and how to install them:
+
+- Java 11
+- Maven
+- Your favorite IDE (Eclipse, IntelliJ, etc.)
+
+### Installing
+
+A step by step series of examples that tell you how to get a development environment running:
+
+1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+2. Navigate to the directory: `cd your-repo`
+3. Build the project: `mvn clean install`
+4. Run the application: `mvn spring-boot:run`
+
+## Running the tests
+
+Explain how to run the automated tests for this system.
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system.
+
+## Built With
+
+- Spring Boot - The web framework used
+- Maven - Dependency Management
+
+## Contributing
+
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Authors
+
+- Your Name - Initial work - YourUsername
+
+See also the list of contributors who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
