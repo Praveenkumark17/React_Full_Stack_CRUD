@@ -113,6 +113,15 @@ View User..
 
 ![Screenshot (120)](https://github.com/Praveenkumark17/React_Full_Stack_CRUD/assets/95238197/f6bcf6af-1200-4deb-8cbb-2b45c608a081)
 
+Add User..
+
+![Screenshot (121)](https://github.com/Praveenkumark17/React_Full_Stack_CRUD/assets/95238197/96a0974a-c1fd-4ce4-a9c6-10e366852918)
+
+Update User..
+
+![Screenshot (122)](https://github.com/Praveenkumark17/React_Full_Stack_CRUD/assets/95238197/6ec7b93d-bf35-44a0-8ed2-8ade016cf95a)
+
+
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
