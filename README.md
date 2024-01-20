@@ -81,7 +81,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them:
 
-- Java 11
+- Java 20
 - Maven
 - Your favorite IDE (Eclipse, IntelliJ, etc.)
 
@@ -106,6 +106,12 @@ Add additional notes about how to deploy this on a live system.
 
 - Spring Boot - The web framework used
 - Maven - Dependency Management
+
+## UI for an Fronend
+
+View User..
+
+![Screenshot (120)](https://github.com/Praveenkumark17/React_Full_Stack_CRUD/assets/95238197/f6bcf6af-1200-4deb-8cbb-2b45c608a081)
 
 ## Acknowledgments
 
