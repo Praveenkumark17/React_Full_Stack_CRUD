@@ -1,0 +1,22 @@
+.nav_head {
+  font-weight: bold;
+  font-size: 18px;
+  cursor: default;
+  color: #29cdfb;
+}
+.menu {
+  display: flex;
+}
+.adduse {
+  justify-content: right;
+}
+.but,.but_add {
+  font-weight: bold;
+  font-size: 16px;
+}
+.but_add{
+    color: greenyellow;
+}
+.but_add.ant-btn:hover{
+    color: red;
+}

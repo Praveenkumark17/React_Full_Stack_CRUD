@@ -1,0 +1,9 @@
+.table {
+  width: 1500px;
+}
+.ant-table-cell {
+  text-align: center;
+}
+.ant-table-column-title {
+  text-align: center;
+}
